@@ -6823,7 +6823,7 @@ msgstr "Funkce pro výběr cesty"
 
 #: tfrmoptionsmisc.btnthumbcompactcache.caption
 msgid "&Remove thumbnails for no longer existing files"
-msgstr "&Odstranit miniatury už existujících souborů"
+msgstr "&Odstranit miniatury už neexistujících souborů"
 
 #: tfrmoptionsmisc.btnviewconfigfile.hint
 msgctxt "TFRMOPTIONSMISC.BTNVIEWCONFIGFILE.HINT"
